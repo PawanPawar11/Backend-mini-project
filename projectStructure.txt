@@ -1,0 +1,5 @@
+users can write posts
+logout
+post creation
+post like
+post delete
